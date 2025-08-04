@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}   
+
+.container{
+    margin: o auto;
+}
+
+.header{
+    width: 1440px;
+    background-color: black;
+    color: white;
+}
+
+.logo{
+    width: 81px;
+    height: 78px;
+    top: 55px;
+    left: 100px;
+    opacity: 1;
+}
+
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 45px 0;
+}
+
+.nav ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.nav ul li{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    text-shadow: 0px 4px 7.4px  #FFFFFF;
+}
+
+.mnogoElement{
+    background-image: url(img/Снимок\ экрана\ 2025-08-04\ 083721.png);
+    background-size: 1440px;
+    height: 594px;
+    top: 169px;
+    background-color: grey;
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.element{
+    border: 2px solid black;
+}
+
+.redElement{
+    text-align: center;
+    align-content: center;
+    color: white;
+    width: 237px;
+    height: 209px;
+    background-color: red;
+    position: relative;
+    bottom: -104px;
+    left: 118px;
+}
+
+.greenElement{
+    align-items: baseline;
+    color: red;
+    width: 237px;
+    height: 209px;
+    background-color:#32FB00;
+    align-items: center;
+}
+.red2{
+    left: -50px;
+    width: 414px;
+    border-radius: 100px;
+}
+
+.section{
+    background-image: url(img/Снимок\ экрана\ 2025-08-04\ 083721.png);
+  width: 1440px;
+  background-color: grey
+}
+
+.section h1{
+   box-shadow: 16px 18px 28px 0px #FFFFFF40;
+    background-color: white;
+    color: black;
+    align-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 602px;
+    margin: 0 auto;
+    height: 75px;
+    border-radius: 30px;
+    align-items: center;
+    opacity: 1;
+
+
+}
+.red3{
+    left: -119px;
+}
+
+.h1{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    align-content: center;
+    width: 602px;
+    height: 75px;
+    top: 206px;
+    left: 455px;
+    opacity: 1;
+    border-radius: 30px;
+    text-align: center;
+    background-color: white;
+}
+.section1{
+    width: 1440px;
+    background-color: black;
+}
+
+.section1 h1{
+    box-shadow: 16px 18px 28px 0px #FFFFFF40;
+    background-color: white;
+    color: black;
+    align-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 602px;
+    margin: 0 auto;
+    height: 75px;
+    border-radius: 30px;
+    align-items: center;
+    opacity: 1;
+
+}
+
+.kartochki{
+    width: 100%;
+    display: flex;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card{
+    width: 368px;
+    height: 380px;
+    border: 2px solid white;
+    background: #7B2525;
+    padding: 71px 56px 31px 39px;
+    margin-bottom: 40px;
+}
+
+.card h3{
+    text-shadow: 0px 4px 7.4px #FFFFFF;  
+    text-align: center;
+}
+
+.card p{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.img{
+    margin: 0 auto;
+    width: 336px;
+    height: 106px;
+    top: 1210px;
+    left: 559px;
+    opacity: 1;
+}
+
+.img2{
+    width: 312px;
+    height: 193px;
+    top: 1161px;
+    left: 999px;
+    opacity: 1;
+
+}
+
+.footer{
+    width: 1440px;
+    background-color: black;
+    color: white;
+}
